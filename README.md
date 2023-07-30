@@ -6,7 +6,7 @@ For example for the notes in order 'C4', 'A3', 'G4', 'C3', 'E5', 'F4', 'C4'
 
 arpeggiator pattern is generated for 10 times for each note to simulate the arpeggiator sound. 
 
-The notes and frequencies of the notes played respectively are as follows,\
+The notes and frequencies of the notes played respectively are as follows,
 
 Row : 48 and column : 6  of note C4 in the data frame pnotes_df\
 The frequencies of ascending notes of the major chords for note C4\
